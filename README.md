@@ -15,21 +15,25 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+The global web performance monitoring and digital experience market is estimated at **$6.7B to $7.5B** (projected to reach $11B–$15B+ by 2030), while broader application performance monitoring (APM) spans over $10B. The sector is **moderately fragmented**: enterprise platform giants command large consolidated shares, yet a vibrant and expanding long-tail of specialized synthetic, RUM, and developer-first monitoring providers continues to thrive alongside dominant open-source standards.
+
 ## SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[SpeedCurve](https://www.speedcurve.com/)** | Performance monitoring with synthetic tests, real-user monitoring (RUM), and Core Web Vitals tracking. Positioned for teams wanting continuous performance budgets. | Starter: **$20/month** (billing unit not specified) [citation:6] | No permanent free plan; free trial available [citation:6] |
-| **[Calibre](https://calibreapp.com/)** | Web performance monitoring unifying RUM, Google CrUX data, and synthetic tests. Tracks Core Web Vitals and performance budgets. | Starter: **$50–$75/month**; Team: **$150/month**; Company: **$1,500/month** [citation:4][citation:13] | **15-day free trial** (no credit card); no permanent free tier [citation:4] |
-| **[DebugBear](https://www.debugbear.com/)** | Lighthouse-based performance monitoring with synthetic tests across devices and locations. | **$125/month** (paid plans) [citation:5] | No free account; **14-day free trial**; limited guest spot checks available [citation:14] |
-| **[GTmetrix](https://gtmetrix.com/)** | Website speed testing and performance monitoring. Free spot checks available; paid plans for monitoring. | Free spot checks available; paid plans via GTmetrix [citation:7] | **Free**: basic speed test (no credit card required) [citation:7] |
-| **[Pingdom](https://www.pingdom.com/)** | Uptime and page speed monitoring. | **$15/month** (Uptime or Page Speed monitoring) [citation:9] | No free plan; free spot checks from 7 locations; **30-day free trial** [citation:9] |
-| **[BlazeMeter](https://www.blazemeter.com/)** | Load testing and API monitoring platform (Broadcom). | Quote-only for full platform; API Monitoring free plan available | **14-day trial** with 100,000 requests; **Free plan**: 25,000 requests/month, 1 team member [citation:8] |
+| Product | Company Scale (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier / Trial Limits | Description |
+|---------|--------------------------------------|-------------------------|--------------------------|-------------|
+| **[Pingdom](https://www.pingdom.com/)** | **~$700M+ ARR / Multi-billion parent** (Owned by SolarWinds; acquired for $103M) | **$18/month** (or $16.50/mo billed annually) for 10 uptime checks & 1 advanced check | **30-day free trial** with full synthetic & RUM feature access; no permanent free plan | Uptime and page speed monitoring with synthetic transactions, root cause analysis, and global testing locations. |
+| **[BlazeMeter](https://www.blazemeter.com/)** | **~$500M–$750M ARR / Multi-billion parent** (Owned by Perforce Software, backed by Clearlake Capital & Francisco Partners) | **$149/month** (or $99/mo billed annually) for Basic tier (1,000 concurrent users) | **Free forever plan**: 25,000 requests/month, 1 team member; also offers a **14-day free trial** (100,000 requests) | Enterprise load testing, API monitoring, and continuous front-end performance validation platform. |
+| **[SpeedCurve](https://www.speedcurve.com/)** | **~$24M ARR / $79.5M+ funding parent** (Acquired by Embrace in Nov 2025; Embrace acquired by Palo Alto Networks in 2026) | **$90/month** for Starter tier | **30-day free trial** (rate-capped at 1,000 API requests/day, no credit card required); no permanent free plan | Continuous web performance monitoring unifying synthetic tests, real-user monitoring (LUX / RUM), and Core Web Vitals budgets. |
+| **[GTmetrix](https://gtmetrix.com/)** | **~$330K ARR / PE-backed digital group** (Acquired by group.one in 2025; formerly Carbon60) | **$5/month** (Micro PRO plan; $4.25/mo billed annually) | **Free forever plan**: 5 on-demand tests/month, 1 monitored daily slot, 1-week report retention | Website speed testing and synthetic page performance monitoring across multiple global locations and device profiles. |
+| **[DebugBear](https://www.debugbear.com/)** | **~$330K ARR / Bootstrapped** (Micro-SaaS backed by TinySeed; ~3 team members) | **$125/month** for Startup tier | **14-day free trial** (no credit card required); no permanent free plan (offers free one-off spot-check tools) | Lighthouse-based performance and Core Web Vitals monitoring with synthetic tests across locations and devices. |
+| **[Calibre](https://calibreapp.com/)** | **Bootstrapped / Indie Micro-SaaS** (<$1M ARR estimated; self-funded) | **$75/month** for Starter tier (5,000 synthetic tests & 5,000 RUM sessions) | **15-day free trial** (no credit card required); no permanent free plan | Web performance monitoring unifying synthetic tests, Google CrUX data, and RUM for continuous Core Web Vitals tracking. |
 
 ## Open-Source GitHub Projects
 
