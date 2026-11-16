@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Front-End-Web-App-Performance-Testing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Front-End-Web-App-Performance-Testing?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Front-End-Web-App-Performance-Testing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Front-End-Web-App-Performance-Testing?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Front-End-Web-App-Performance-Testing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Front-End-Web-App-Performance-Testing?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Front-End-Web-App-Performance-Testing/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Front-End-Web-App-Performance-Testing" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Front-End-Web-App-Performance-Testing/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Front-End-Web-App-Performance-Testing" alt="License" /></a>
@@ -56,9 +56,9 @@ The sector displays a **moderately fragmented** market structure:
 
 ## 💻 Open-Source GitHub Projects
 
-*Free, self-hosted, and community-driven tools for front-end web audits, browser performance automation, load generation, and Core Web Vitals metrics collection. Sorted by GitHub star count in descending order.*
+*Free, self-hosted, and community-driven tools for front-end web audits, browser performance automation, load generation, and Core Web Vitals metrics collection. Sorted by GitHub Stars_Count in descending order.*
 
-| Project | GitHub Stars | License | Description |
+| Project | GitHub_Stars | License | Description |
 |---------|--------------|---------|-------------|
 | **[k6](https://github.com/grafana/k6)** | [![Stars](https://img.shields.io/github/stars/grafana/k6?style=social&color=white)](https://github.com/grafana/k6/stargazers) | **AGPL-3.0** | 🚀 **Modern load testing tool for developers and testers.** Built in Go and JavaScript, k6 features a built-in browser module (`xk6-browser`) that runs Chromium-based browser tests alongside protocol-level load tests. Perfect for hybrid front-end and back-end stress analysis. |
 | **[Lighthouse](https://github.com/GoogleChrome/lighthouse)** | [![Stars](https://img.shields.io/github/stars/GoogleChrome/lighthouse?style=social&color=white)](https://github.com/GoogleChrome/lighthouse/stargazers) | **Apache-2.0** | 🏆 **The industry-standard open-source automated auditing tool.** Maintained by Google, Lighthouse audits Performance, Accessibility (a11y), Progressive Web Apps (PWA), SEO, and best practices. Runs in Chrome DevTools, CLI, Node module, or PageSpeed Insights. |
@@ -86,7 +86,7 @@ Contributions are welcome and greatly appreciated!
 
 1. 🍴 **Fork the repo** to your personal GitHub account.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-tool`).
-3. 📝 **Add or edit entries** in `README.md` following the existing format (include name, official link, star badge, license, and factual description).
+3. 📝 **Add or edit entries** in `README.md` following the existing format (include name, official link, Stars_Badge, license, and factual description).
 4. ✅ **Ensure accuracy**: Verify that URLs, pricing tiers, and open-source licenses are up to date.
 5. 🚀 **Submit a Pull Request** with a concise description of your additions.
 
@@ -118,3 +118,12 @@ Thank you for exploring this awesome performance testing directory! If you find 
 <p align="center">
   <b>Built with ⚡ for performance engineers, front-end developers, and web architects worldwide.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Front-End-Web-App-Performance-Testing&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Front-End-Web-App-Performance-Testing_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Front-End-Web-App-Performance-Testing_growth.svg">
+  </picture>
+</a>
