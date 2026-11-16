@@ -1,6 +1,6 @@
 # Awesome-Front-End-Web-App-Performance-Testing
 
-# Top Front-End Web & App Performance Testing Ecosystem
+## Top Front-End Web & App Performance Testing Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Core Web Vitals, Synthetic Monitoring & Self-Hosted Performance Auditing*  
